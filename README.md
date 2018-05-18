@@ -8,3 +8,7 @@ Other factors to be confirmed
 Using R to calculate probability again. (probability, rate)(model by AnyLogic)
 ## Phase II Build Patients Archetypes
 Using N_Hats to build patients' archetypes. Sort High utilizers by good/bad habits.(Times to visit doctors from Claim?). Build high utilizer area data from census
+
+## Phase III Connecting Shiny App with R
+
+## Phase IV Provider Side
