@@ -24,6 +24,6 @@ Create models (using GSP trees, accessibility indices and etc.) for population t
 ### Calculate Costs
 Including expense of service call, transportation expense and some quantification of negative personal feelings
 ### Optimize the resource allocation to minimize the cost.
-
+This can be done with Anylogic builtin optimizer.
 ## Phase III: Connecting Shiny App with R
 Show the results in shiny map.
