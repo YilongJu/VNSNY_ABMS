@@ -12,3 +12,4 @@ Using N_Hats to build patients' archetypes. Sort High utilizers by good/bad habi
 ## Phase III Connecting Shiny App with R
 
 ## Phase IV Provider Side
+End-to-end hospital model, mobile service model, 
