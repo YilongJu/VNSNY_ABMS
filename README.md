@@ -5,6 +5,7 @@
 ### 1. Build Patients Archetypes
 Using NHATS to build patients' archetypes. Sort High utilizers by good/bad habits.(Times to visit doctors from Claim?). Build high utilizer area data from census.
 ### 2. Model State Transition
+> Need some literature research
 5 states: S L D H N
 Consider Dual Eligible/Ineligible, and number of Comorbidities (1-3,4-7,8+)
 Other factors to be confirmed
