@@ -14,13 +14,16 @@ Using R to calculate probability again. (probability, rate)(model by AnyLogic)
 
 ## Phase II: Model Transits / Accessibilities
 Provider Side, End-to-end hospital model, mobile service models.
-1. Regard the moment when a state transition happens as the moment when a need occurs (Need for short-term stay, Nursing, long-term stay, house or go home).
-1. Create models (GSP trees, accessibility indiices) for population to determine their actions when they have a need:
+### Create Agent Goals
+Regard the moment when a state transition happens as the moment when a goal generates (Need for short-term stay, Nursing, long-term stay, house or go home).
+### Model Agent Decisions
+Create models (using GSP trees, accessibility indices and etc.) for population to determine their actions when they have a need:
 * Go to hospital / clinics
 * Call for visiting nurses, case workers, caregivers
 * Stay at home doing nothing
-1. Calculate the corresponding cost (service call, transportation expense, personal feelings)
-1. Optimize the resource allocation to minimize the cost.
+### Calculate Costs
+Including expense of service call, transportation expense and some quantification of negative personal feelings
+### Optimize the resource allocation to minimize the cost.
 
 ## Phase III: Connecting Shiny App with R
 Show the results in shiny map.
